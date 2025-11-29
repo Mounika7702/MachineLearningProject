@@ -1,1 +1,1 @@
-# MachineLearningProject
+# MachineLearningProject - Multi Disease Prediction
